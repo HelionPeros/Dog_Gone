@@ -48,7 +48,7 @@ For second most popular dog as all top dogs for each region were the same, this 
 
 ### Notebook 4:
 
-Julia Notbook Scraping of the American Kennel Club, second notebook used to convert scraped info into a format for R.
+Julia Notebook Scraping of the American Kennel Club, second notebook used to convert scraped info into a format for R.
 
 **input website url** https://www.akc.org/expert-advice/dog-breeds/2020-popular-breeds-2019/
 
