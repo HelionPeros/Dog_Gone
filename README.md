@@ -25,7 +25,7 @@ Read in the figures NZ CSV's contained within the Region CSV's folder. Follow no
 
 **input CSVs** Region CSVs folder, from (https://places.figure.nz/)
 
-**output CSVs** 'All_Pets_FiguresNZ.csv', 'All_Homes_FiguresNZ.csv', 'All_Populations_FiguresNZ.csv' and 'All_Populations_FiguresNZ.csv'
+**output CSVs** 'All_Pets_FiguresNZ.csv', 'All_Homes_FiguresNZ.csv', 'All_Populations_FiguresNZ.csv' and 'All_Incomes_FiguresNZ.csv'
 
 ### Notebook 2:
 
@@ -42,7 +42,7 @@ Use the 'Pets_Per_Capita_Region_FiguresNz.csv' to condense dog breeds to better 
 
 For second most popular dog as all top dogs for each region were the same, this was done to perform useful analysis in Notebook 6.
 
-**input CSVs** 'Pets_Per_Capita_Region_FiguresNz.csv'
+**input CSVs** 'Pets_Per_Capita_Region_FiguresNz.csv', 'Homes_Per_Capita_Region_FiguresNz.csv' and 'All_Incomes_FiguresNZ.csv' 
 
 **output CSVs** 'Dogs_Per_Capita_With_Condensed_Collie_Chihuahua_and_Removed_0's.csv'
 
