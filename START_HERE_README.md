@@ -17,7 +17,7 @@ _All notebooks have clear information for each step or function in the wrangling
 
 
 
-#### Notebook 1: 
+### Notebook 1: 
 
 Set working directory, for each region folder contained within Region CSVs (16 regions): Extracts the Total Dogs Registered, Population for each region, home ownership and median personal income.
 
@@ -27,7 +27,7 @@ Read in the figures NZ CSV's contained within the Region CSV's folder. Follow no
 
 **output CSVs** 'All_Pets_FiguresNZ.csv', 'All_Homes_FiguresNZ.csv', 'All_Populations_FiguresNZ.csv' and 'All_Populations_FiguresNZ.csv'
 
-#### Notebook 2:
+### Notebook 2:
 
 Standardise Total Registered Dogs to per capita using the Population CSV and standardise Home Ownership to per capita using the Population CSV
 
@@ -36,7 +36,7 @@ Standardise Total Registered Dogs to per capita using the Population CSV and sta
 
 **output CSVs**  'Homes_Per_Capita_Region_FiguresNz.csv' and 'Pets_Per_Capita_Region_FiguresNz.csv' 
 
-#### Notebook 3:
+### Notebook 3:
 
 Use the 'Pets_Per_Capita_Region_FiguresNz.csv' to condense dog breeds to better match figures NZ breed information: further explanation for our choices in the Notebook.
 
@@ -46,7 +46,7 @@ For second most popular dog as all top dogs for each region were the same, this 
 
 **output CSVs** 'Dogs_Per_Capita_With_Condensed_Collie_Chihuahua_and_Removed_0's.csv'
 
-#### Notebook 4:
+### Notebook 4:
 
 Julia Notbook Scraping of the American Kennel Club, second notebook used to convert scraped info into a format for R.
 
@@ -54,7 +54,7 @@ Julia Notbook Scraping of the American Kennel Club, second notebook used to conv
 
 **output CSVs** 'Final_JuliaBreedsScraping.csv'- From Julia, 'BreedsDF.csv' - Julia CSV put into R + some wrangling 
 
-#### Notebook 5: 
+### Notebook 5: 
 
 Scraped breeds from AKC filtered down to match breeds in figures NZ, whitespaces removed - for easier merging of figures and AKC data frames. 
 
@@ -62,7 +62,7 @@ Scraped breeds from AKC filtered down to match breeds in figures NZ, whitespaces
 
 **output CSVs** 'sorted_akc_breeds.csv'
 
-#### Notebook 6:
+### Notebook 6:
 
 Analysis of data collected from AKC and figures using Plotly for bubble plots and syuzhet for sentiment analysis.
 
