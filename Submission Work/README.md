@@ -15,7 +15,7 @@ _Where appropriate set working directory to location of the downloaded zip for e
 
 _All notebooks have clear information for each step or function in the wrangling process_
 
-
+_Github used throughout project, split into final submission work and our workings along the way https://github.com/HelionPeros/Dog_Gone_
 
 ### Notebook 1: 
 
@@ -31,8 +31,7 @@ Read in the figures NZ CSV's contained within the Region CSV's folder. Follow no
 
 Standardise Total Registered Dogs to per capita using the Population CSV and standardise Home Ownership to per capita using the Population CSV
 
-**input CSVs** 'All_Pets_FiguresNZ.csv', 'All_Homes_FiguresNZ.csv' and 'All_Populations_FiguresNZ.csv' 
-
+**input CSVs** 'All_Pets_FiguresNZ.csv', 'All_Homes_FiguresNZ.csv' and 'All_Populations_FiguresNZ.csv' and 'All_Incomes_FiguresNZ.csv' 
 
 **output CSVs**  'Homes_Per_Capita_Region_FiguresNz.csv' and 'Pets_Per_Capita_Region_FiguresNz.csv' 
 
