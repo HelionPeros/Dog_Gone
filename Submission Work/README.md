@@ -50,7 +50,7 @@ For second most popular dog as all top dogs for each region were the same, this 
 
 Julia Notebook Scraping of the American Kennel Club, second notebook used to convert scraped info into a format for R.
 
-**input website url** https://www.akc.org/expert-advice/dog-breeds/2020-popular-breeds-2019/
+**input website url** https://www.akc.org/expert-advice/dog-breeds/2020-popular-breeds-2019/, For R Notebook - 'BreedsDF.csv'
 
 **output CSVs** 'Final_JuliaBreedsScraping.csv'- From Julia, 'BreedsDF.csv' - Julia CSV put into R + some wrangling 
 
@@ -68,4 +68,4 @@ Analysis of data collected from AKC and figures using Plotly for bubble plots an
 
 **input CSVs** 'breeds_income_renting.csv', 'sorted_akc_breeds.csv' 
 
-**output CSVs** 'Sentiment_Analysis.csv' 
+**output CSVs** 'Sentiment_Analysis.csv', 'median_personal_income.png', 'home_ownership.png' 
