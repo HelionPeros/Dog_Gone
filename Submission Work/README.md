@@ -69,14 +69,14 @@ Analysis of data collected from AKC and figures using Plotly for bubble plots an
 
 **output CSVs** 'Sentiment_Analysis.csv', 'median_personal_income.png', 'home_ownership.png' 
 
-### Presentation
+### Presentation:
 
 Contains presentation slides used for the presentation in week 12
 
-### Final Report
+### Final Report:
 
 Contains PDF of final report
 
-### Final Data Frames
+### Final Data Frames:
 
 Final data produced throughout the project
