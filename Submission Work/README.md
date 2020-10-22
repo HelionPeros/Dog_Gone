@@ -31,8 +31,7 @@ Read in the figures NZ CSV's contained within the Region CSV's folder. Follow no
 
 Standardise Total Registered Dogs to per capita using the Population CSV and standardise Home Ownership to per capita using the Population CSV
 
-**input CSVs** 'All_Pets_FiguresNZ.csv', 'All_Homes_FiguresNZ.csv' and 'All_Populations_FiguresNZ.csv' 
-
+**input CSVs** 'All_Pets_FiguresNZ.csv', 'All_Homes_FiguresNZ.csv' and 'All_Populations_FiguresNZ.csv' and 'All_Incomes_FiguresNZ.csv' 
 
 **output CSVs**  'Homes_Per_Capita_Region_FiguresNz.csv' and 'Pets_Per_Capita_Region_FiguresNz.csv' 
 
